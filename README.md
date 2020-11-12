@@ -2,6 +2,16 @@
 <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" width="450" height="auto"/>
 </div>
 
+<br>
+
+<div align="center">
+
+![Solved](https://img.shields.io/badge/Solved-35/1650-552299.svg?style=flat) ![Easy](https://img.shields.io/badge/Easy-11-5cb85c.svg?style=flat) ![Medium](https://img.shields.io/badge/Medium-18-f0ad4e.svg?style=flat) ![Hard](https://img.shields.io/badge/Hard-6-d9534f.svg?style=flat)
+
+[![Languages](https://img.shields.io/badge/Languages-Python-blue.svg?style=flat)](python/)
+
+</div>
+
 ---
 
 This repo contains my personal LeetCode solutions, done for no particular purpose other than to have fun.
