@@ -44,5 +44,6 @@ This repo contains my personal LeetCode solutions, done for no particular purpos
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat) | [Python](python/28-implement-strstr.py) |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) | [Python](python/29-divide-two-integers.py) |
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words) | ![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat) | [Python](python/30-substring-with-concatenation-of-all-words.py) |
+| 31 | [Next Permutation](https://leetcode.com/problems/next-permutation) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) | [Python](python/31-next-permutation.py) |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) | [Python](python/54-spiral-matrix.py) |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat) | [Python](python/977-squares-of-a-sorted-array.py) |
