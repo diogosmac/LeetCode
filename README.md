@@ -46,5 +46,6 @@ This repo contains my personal LeetCode solutions, done for no particular purpos
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words) | ![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat) | [Python](python/30-substring-with-concatenation-of-all-words.py) |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) | [Python](python/31-next-permutation.py) |
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | ![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat) | [Python](python/32-longest-valid-parentheses.py) |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) | [Python](python/33-search-in-rotated-array.py) |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) | [Python](python/54-spiral-matrix.py) |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat) | [Python](python/977-squares-of-a-sorted-array.py) |
