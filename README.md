@@ -8,7 +8,7 @@
 
 ![Solved](https://img.shields.io/badge/Solved-35/1650-552299.svg?style=flat) ![Easy](https://img.shields.io/badge/Easy-11-5cb85c.svg?style=flat) ![Medium](https://img.shields.io/badge/Medium-18-f0ad4e.svg?style=flat) ![Hard](https://img.shields.io/badge/Hard-6-d9534f.svg?style=flat)
 
-[![Languages](https://img.shields.io/badge/Languages-Python-blue.svg?style=flat)](python/)
+[![Languages](https://img.shields.io/badge/Python-blue.svg?style=flat)](python/) [![Languages](https://img.shields.io/badge/JavaScript-f0db4f.svg?style=flat)](js/)
 
 </div>
 
@@ -24,7 +24,7 @@ This repo contains my personal LeetCode solutions, done for no particular purpos
 
 |  #  | Title | Difficulty | Solutions |
 | :-: | ----- | :--------: | :-------: |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat) | [Python](python/1-two-sum.py) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat) | [Python](python/1-two-sum.py), [JS](js/1-two-sum.js) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) | [Python](python/2-add-two-numbers.py) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) | [Python](python/3-longest-substring-without-repeating-characters.py) |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | ![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat) | [Python](python/4-median-of-two-sorted-arrays.py) |
