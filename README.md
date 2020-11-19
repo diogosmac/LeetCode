@@ -1,12 +1,14 @@
 <div align="center">
-<img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" width="450" height="auto"/>
+<a href="https://leetcode.com/">
+    <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" href="leetcode.com" width="450" height="auto"/>
+</a>
 </div>
 
 <br>
 
 <div align="center">
 
-![Solved](https://img.shields.io/badge/Solved-38/1650-337ab7.svg?style=flat) ![Easy](https://img.shields.io/badge/Easy-12-5cb85c.svg?style=flat) ![Medium](https://img.shields.io/badge/Medium-20-f0ad4e.svg?style=flat) ![Hard](https://img.shields.io/badge/Hard-6-d9534f.svg?style=flat)
+[![Solved](https://img.shields.io/badge/Solved-38/1650-337ab7.svg?style=flat)](https://leetcode.com/problemset/all/) [![Easy](https://img.shields.io/badge/Easy-12-5cb85c.svg?style=flat)](https://leetcode.com/problemset/all/?difficulty=Easy) [![Medium](https://img.shields.io/badge/Medium-20-f0ad4e.svg?style=flat)](https://leetcode.com/problemset/all/?difficulty=Medium) [![Hard](https://img.shields.io/badge/Hard-6-d9534f.svg?style=flat)](https://leetcode.com/problemset/all/?difficulty=Hard)
 
 [![Language - Python](https://img.shields.io/badge/Python-4b8bbe.svg?style=for-the-badge)](python/) [![Language - JS](https://img.shields.io/badge/JavaScript-f0db4f.svg?style=for-the-badge)](js/) [![Language - Java](https://img.shields.io/badge/Java-ed8b00.svg?style=for-the-badge)](java/) 
 
