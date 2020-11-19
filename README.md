@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Solved](https://img.shields.io/badge/Solved-43/1661-337ab7.svg?style=flat)](https://leetcode.com/problemset/all/) [![Easy](https://img.shields.io/badge/Easy-13-5cb85c.svg?style=flat)](https://leetcode.com/problemset/all/?difficulty=Easy) [![Medium](https://img.shields.io/badge/Medium-22-f0ad4e.svg?style=flat)](https://leetcode.com/problemset/all/?difficulty=Medium) [![Hard](https://img.shields.io/badge/Hard-8-d9534f.svg?style=flat)](https://leetcode.com/problemset/all/?difficulty=Hard)
+[![Solved](https://img.shields.io/badge/Solved-44/1661-337ab7.svg?style=flat)](https://leetcode.com/problemset/all/) [![Easy](https://img.shields.io/badge/Easy-13-5cb85c.svg?style=flat)](https://leetcode.com/problemset/all/?difficulty=Easy) [![Medium](https://img.shields.io/badge/Medium-22-f0ad4e.svg?style=flat)](https://leetcode.com/problemset/all/?difficulty=Medium) [![Hard](https://img.shields.io/badge/Hard-9-d9534f.svg?style=flat)](https://leetcode.com/problemset/all/?difficulty=Hard)
 
 [![Language - Python](https://img.shields.io/badge/Python-4b8bbe.svg?style=for-the-badge)](python/) [![Language - JS](https://img.shields.io/badge/JavaScript-f0db4f.svg?style=for-the-badge)](js/) [![Language - Java](https://img.shields.io/badge/Java-ed8b00.svg?style=for-the-badge)](java/) 
 
@@ -67,5 +67,6 @@ This repo contains my personal LeetCode solutions, done for no particular purpos
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) | [![Language - Python](https://img.shields.io/badge/Python-4b8bbe.svg?style=flat-square)](python/39-combination-sum.py) |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) | [![Language - Python](https://img.shields.io/badge/Python-4b8bbe.svg?style=flat-square)](python/40-combination-sum-ii.py) |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | ![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat) | [![Language - Python](https://img.shields.io/badge/Python-4b8bbe.svg?style=flat-square)](python/41-first-missing-positive.py) |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | ![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat) | [![Language - Python](https://img.shields.io/badge/Python-4b8bbe.svg?style=flat-square)](python/42-trapping-rain-water.py) |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) | [![Language - Python](https://img.shields.io/badge/Python-4b8bbe.svg?style=flat-square)](python/54-spiral-matrix.py) |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat) | [![Language - Python](https://img.shields.io/badge/Python-4b8bbe.svg?style=flat-square)](python/977-squares-of-a-sorted-array.py) |
