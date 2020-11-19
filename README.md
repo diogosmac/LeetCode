@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Solved](https://img.shields.io/badge/Solved-39/1650-337ab7.svg?style=flat)](https://leetcode.com/problemset/all/) [![Easy](https://img.shields.io/badge/Easy-12-5cb85c.svg?style=flat)](https://leetcode.com/problemset/all/?difficulty=Easy) [![Medium](https://img.shields.io/badge/Medium-20-f0ad4e.svg?style=flat)](https://leetcode.com/problemset/all/?difficulty=Medium) [![Hard](https://img.shields.io/badge/Hard-7-d9534f.svg?style=flat)](https://leetcode.com/problemset/all/?difficulty=Hard)
+[![Solved](https://img.shields.io/badge/Solved-40/1661-337ab7.svg?style=flat)](https://leetcode.com/problemset/all/) [![Easy](https://img.shields.io/badge/Easy-13-5cb85c.svg?style=flat)](https://leetcode.com/problemset/all/?difficulty=Easy) [![Medium](https://img.shields.io/badge/Medium-20-f0ad4e.svg?style=flat)](https://leetcode.com/problemset/all/?difficulty=Medium) [![Hard](https://img.shields.io/badge/Hard-7-d9534f.svg?style=flat)](https://leetcode.com/problemset/all/?difficulty=Hard)
 
 [![Language - Python](https://img.shields.io/badge/Python-4b8bbe.svg?style=for-the-badge)](python/) [![Language - JS](https://img.shields.io/badge/JavaScript-f0db4f.svg?style=for-the-badge)](js/) [![Language - Java](https://img.shields.io/badge/Java-ed8b00.svg?style=for-the-badge)](java/) 
 
@@ -63,5 +63,6 @@ This repo contains my personal LeetCode solutions, done for no particular purpos
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat) | [![Language - Python](https://img.shields.io/badge/Python-4b8bbe.svg?style=flat-square)](python/35-search-insert-position.py) |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) | [![Language - Python](https://img.shields.io/badge/Python-4b8bbe.svg?style=flat-square)](python/36-valid-sudoku.py) |
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | ![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat) | [![Language - Python](https://img.shields.io/badge/Python-4b8bbe.svg?style=flat-square)](python/37-sudoku-solver.py) [![Language - Java](https://img.shields.io/badge/Java-ed8b00.svg?style=flat-square)](java/37-sudoku-solver.java) |
+| 38 | [Count and Say](https://leetcode.com/problems/count-and-say) | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat) | [![Language - Python](https://img.shields.io/badge/Python-4b8bbe.svg?style=flat-square)](python/38-count-and-say.py) |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) | [![Language - Python](https://img.shields.io/badge/Python-4b8bbe.svg?style=flat-square)](python/54-spiral-matrix.py) |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat) | [![Language - Python](https://img.shields.io/badge/Python-4b8bbe.svg?style=flat-square)](python/977-squares-of-a-sorted-array.py) |
