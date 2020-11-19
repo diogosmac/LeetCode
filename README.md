@@ -6,9 +6,9 @@
 
 <div align="center">
 
-![Solved](https://img.shields.io/badge/Solved-37/1650-552299.svg?style=flat) ![Easy](https://img.shields.io/badge/Easy-12-5cb85c.svg?style=flat) ![Medium](https://img.shields.io/badge/Medium-19-f0ad4e.svg?style=flat) ![Hard](https://img.shields.io/badge/Hard-6-d9534f.svg?style=flat)
+![Solved](https://img.shields.io/badge/Solved-38/1650-337ab7.svg?style=flat) ![Easy](https://img.shields.io/badge/Easy-12-5cb85c.svg?style=flat) ![Medium](https://img.shields.io/badge/Medium-20-f0ad4e.svg?style=flat) ![Hard](https://img.shields.io/badge/Hard-6-d9534f.svg?style=flat)
 
-[![Languages](https://img.shields.io/badge/Python-blue.svg?style=flat)](python/) [![Languages](https://img.shields.io/badge/JavaScript-f0db4f.svg?style=flat)](js/)
+[![Language - Python](https://img.shields.io/badge/Python-blue.svg?style=for-the-badge)](python/) [![Language - JS](https://img.shields.io/badge/JavaScript-f0db4f.svg?style=for-the-badge)](js/)
 
 </div>
 
@@ -59,5 +59,6 @@ This repo contains my personal LeetCode solutions, done for no particular purpos
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) | [Python](python/33-search-in-rotated-array.py) |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) | [Python](python/34-find-first-and-last-position-of-element-in-sorted-array.py) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat) | [Python](python/35-search-insert-position.py) |
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) | [Python](python/36-valid-sudoku.py) |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) | [Python](python/54-spiral-matrix.py) |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat) | [Python](python/977-squares-of-a-sorted-array.py) |
