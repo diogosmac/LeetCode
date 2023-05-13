@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Solved](https://img.shields.io/badge/Solved-47-337ab7.svg?style=flat)](https://leetcode.com/problemset/all/) [![Easy](https://img.shields.io/badge/Easy-15-5cb85c.svg?style=flat)](https://leetcode.com/problemset/all/?difficulty=Easy) [![Medium](https://img.shields.io/badge/Medium-23-f0ad4e.svg?style=flat)](https://leetcode.com/problemset/all/?difficulty=Medium) [![Hard](https://img.shields.io/badge/Hard-9-d9534f.svg?style=flat)](https://leetcode.com/problemset/all/?difficulty=Hard)
+[![Solved](https://img.shields.io/badge/Solved-48-337ab7.svg?style=flat)](https://leetcode.com/problemset/all/) [![Easy](https://img.shields.io/badge/Easy-15-5cb85c.svg?style=flat)](https://leetcode.com/problemset/all/?difficulty=Easy) [![Medium](https://img.shields.io/badge/Medium-24-f0ad4e.svg?style=flat)](https://leetcode.com/problemset/all/?difficulty=Medium) [![Hard](https://img.shields.io/badge/Hard-9-d9534f.svg?style=flat)](https://leetcode.com/problemset/all/?difficulty=Hard)
 
 [![Language - Python](https://img.shields.io/badge/Python-4b8bbe.svg?style=for-the-badge)](python/) [![Language - JS](https://img.shields.io/badge/JavaScript-f0db4f.svg?style=for-the-badge)](js/) [![Language - Java](https://img.shields.io/badge/Java-ed8b00.svg?style=for-the-badge)](java/)
 
@@ -72,4 +72,5 @@ This repo contains my personal LeetCode solutions, done for no particular purpos
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) | [![Language - Python](https://img.shields.io/badge/Python-4b8bbe.svg?style=flat-square)](python/54-spiral-matrix.py) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat) | [![Language - Python](https://img.shields.io/badge/Python-4b8bbe.svg?style=flat-square)](python/217-contains-duplicate.py) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat) | [![Language - Python](https://img.shields.io/badge/Python-4b8bbe.svg?style=flat-square)](python/242-valid-anagram.py) |
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) | [![Language - Python](https://img.shields.io/badge/Python-4b8bbe.svg?style=flat-square)](python/347-top-k-frequent-elements.py) |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat) | [![Language - Python](https://img.shields.io/badge/Python-4b8bbe.svg?style=flat-square)](python/977-squares-of-a-sorted-array.py) |
