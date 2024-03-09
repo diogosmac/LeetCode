@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Solved](https://img.shields.io/badge/Solved-51-337ab7.svg?style=flat)](https://leetcode.com/problemset/all/) [![Easy](https://img.shields.io/badge/Easy-15-5cb85c.svg?style=flat)](https://leetcode.com/problemset/all/?difficulty=Easy) [![Medium](https://img.shields.io/badge/Medium-26-f0ad4e.svg?style=flat)](https://leetcode.com/problemset/all/?difficulty=Medium) [![Hard](https://img.shields.io/badge/Hard-10-d9534f.svg?style=flat)](https://leetcode.com/problemset/all/?difficulty=Hard)
+[![Solved](https://img.shields.io/badge/Solved-52-337ab7.svg?style=flat)](https://leetcode.com/problemset/all/) [![Easy](https://img.shields.io/badge/Easy-15-5cb85c.svg?style=flat)](https://leetcode.com/problemset/all/?difficulty=Easy) [![Medium](https://img.shields.io/badge/Medium-27-f0ad4e.svg?style=flat)](https://leetcode.com/problemset/all/?difficulty=Medium) [![Hard](https://img.shields.io/badge/Hard-10-d9534f.svg?style=flat)](https://leetcode.com/problemset/all/?difficulty=Hard)
 
 [![Language - Python](https://img.shields.io/badge/Python-4b8bbe.svg?style=for-the-badge)](python/) [![Language - JS](https://img.shields.io/badge/JavaScript-f0db4f.svg?style=for-the-badge)](js/) [![Language - Java](https://img.shields.io/badge/Java-ed8b00.svg?style=for-the-badge)](java/)
 
@@ -71,6 +71,7 @@ This repo contains my personal LeetCode solutions, done for no particular purpos
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) | [![Language - JS](https://img.shields.io/badge/JS-f0db4f.svg?style=flat-square)](js/43-multiply-strings.js) |
 | 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | ![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat) | [![Language - JS](https://img.shields.io/badge/JS-f0db4f.svg?style=flat-square)](js/44-wildcard-matching.js) |
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) | [![Language - JS](https://img.shields.io/badge/JS-f0db4f.svg?style=flat-square)](js/45-jump-game-ii.js) |
+| 46 | [Permutations](https://leetcode.com/problems/permutations) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) | [![Language - JS](https://img.shields.io/badge/JS-f0db4f.svg?style=flat-square)](js/46-permutations.js) |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) | [![Language - Python](https://img.shields.io/badge/Python-4b8bbe.svg?style=flat-square)](python/49-group-anagrams.py) |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) | [![Language - Python](https://img.shields.io/badge/Python-4b8bbe.svg?style=flat-square)](python/54-spiral-matrix.py) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat) | [![Language - Python](https://img.shields.io/badge/Python-4b8bbe.svg?style=flat-square)](python/217-contains-duplicate.py) |
